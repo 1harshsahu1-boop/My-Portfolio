@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.vercel/
+.netlify/
+dist/
+*.log
+.env*.local

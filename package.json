@@ -1,0 +1,26 @@
+{
+  "name": "harsh-fullstack-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SEO-optimized Next.js portfolio website for Harsh, a full-stack engineer.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "check": "next build",
+    "deploy:vercel": "vercel deploy --prod --yes"
+  },
+  "keywords": [
+    "portfolio",
+    "full-stack",
+    "nextjs",
+    "software-engineer",
+    "seo"
+  ],
+  "dependencies": {
+    "next": "^16.2.12",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "license": "UNLICENSED"
+}
